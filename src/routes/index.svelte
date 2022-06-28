@@ -24,7 +24,7 @@
         <div class="flex-initial sm:mt-0 mt-5 ml-20 sm:ml-0">
           <button
             type="button"
-            class="w-32 bg-violet-500 py-2.5 ml-2 text-white px-6 rouned-md shadow-md hover:bg-violet-400"
+            class="w-32 bg-violet-500 py-2.5 ml-2 text-white px-6 rounded-md shadow-md hover:bg-violet-400"
             >Email Me
           </button>
         </div>
